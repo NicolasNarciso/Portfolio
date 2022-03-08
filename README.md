@@ -1,4 +1,4 @@
 # Nicolas Portfólio
 
 
-![alt text](assets/images/Demo.png)
+![alt text](images/Demo.png)
